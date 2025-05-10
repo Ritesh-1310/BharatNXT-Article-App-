@@ -1,0 +1,2 @@
+D:/Hiring Assignments/BharatNXT/bharat_nxt_article_app/android/app/.cxx/Debug/6o2p6t17/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Hiring Assignments/BharatNXT/bharat_nxt_article_app/android/app/.cxx/Debug/6o2p6t17/arm64-v8a/CMakeFiles/rebuild_cache.dir
